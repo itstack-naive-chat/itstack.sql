@@ -1,4 +1,4 @@
-# :heart:《Netty+JavaFx实战：仿桌面版微信聊天》| 数据库初始化SQL
+# :heart:《Netty+JavaFx实战：仿桌面版微信聊天》| 初始化SQL
 
 [<img src="https://itstack.org/_media/onlinebook.svg">](http://chat.itstack.org) [<img src="https://itstack.org/_media/wxbugstack.svg">](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
 
